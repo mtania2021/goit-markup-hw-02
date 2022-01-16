@@ -158,6 +158,12 @@ p {
   color: var(--accent-color);
 }
 
+.footer-item-address:hover,
+.footer-item-mail:hover,
+.footer-item-tel:hover {
+  color: var(--accent-color);
+}
+
 .footer-item-address {
   font-style: normal;
   font-weight: normal;
